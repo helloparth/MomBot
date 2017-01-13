@@ -38,6 +38,7 @@ The last 2 were simpler and added for a friend.
 ## WikiBot
 
 On the side, MomBot also has a side gig as a _WikiBot_ . This let's a user text momBot a query prefaced by the word _wiki_ . And wikibot will go and fetch a one-liner from the closest matching wikipedia article:
+1/13/17 Update: WikiBot has been decommisioned, mostly because my Twilio free trial expired ages ago. 
 
 ![WikiBot](http://i.giphy.com/GWlDzsdighIwo.gif)
 
