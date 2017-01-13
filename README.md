@@ -4,11 +4,11 @@ MomBot was ideated when I got to work one morning soaked by the rain. I remember
 ## Send a text message from the terminal in 3 lines of code:
 1. Set your configurations in configs.py
 2. Open a python interpreter and type:
-'''
+```python
 > from sms import SMTPServer
 > server = SMTPServer()
 > server.sendText("parth", "Sup dude?")
-''' 
+```
 
 
 
