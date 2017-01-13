@@ -14,12 +14,12 @@ MomBot was ideated when I got to work one morning soaked by the rain. I remember
 
 
 ## Scripts
-MomBot's server API is modular and let's you write a new script in as little as 4 lines of code. Current Scripts:
+MomBot's server API is dead simple, making it easy to build a variety of sms based apps. Here are some of my scripts:
 
 * **Weather**: Sends me a text every morning with a description of the current weather conditions and temperature in SOMA. She will also tell me whether I should bring an umbrella.  
     @todo Store the mean from the past _N_ days and only notify me of the weather change if it is more than _M_ stdevs away from mean. 
     
-I should also check for rain at any point of the work day, not just in the morning.
+TODO: I should also check for rain at any point of the work day, not just in the morning.
     
 * **GameDay**: Perhaps the most useful. The quality of my 2 hour bart commute is greatly affected by how crowded it is. This module lets MomBot only send me a notification at 5:00pm with a name and time for every Raiders, A's, and Warriors game that will be happening that evening.
     
